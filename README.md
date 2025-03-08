@@ -42,15 +42,7 @@ The platform improves efficiency and customer satisfaction by simplifying insura
 - **Plan Information Management**: Manage insurance plans by adding, editing, or deleting details.
 - **Admin Dashboard**: Centralized hub for efficient system management.
 
----
 
-## 📋 Milestones
-1. **Phase 1**: Completed user authentication and registration, initiated agent availability management.
-2. **Phase 2**: Developed appointment scheduling interface and integrated customer features with the backend.
-3. **Phase 3**: Fully implemented plan information management and agent home, agent features.
-4. **Phase 4**: Finalized appointment management, admin features, and the admin home interface(admin dashboard).
-
----
 
 ## 🗂️ Database Schema
 
